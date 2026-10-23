@@ -1,0 +1,16 @@
+KingdaKa
+|
+|- Train
+|   |- Train 1
+|   |- Train 2
+|
+|- Ride Options
+|   |- Normal Ride
+|   |- Rollback Ride
+|
+|- Ride Steps
+    |- Load Riders
+    |- Lock Restraints
+    |- Launch
+    |- Rollback (if it happens)
+    |- Stop
